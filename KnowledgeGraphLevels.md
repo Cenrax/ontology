@@ -1,6 +1,6 @@
 
 
-### 1. **Code Structure Knowledge Graph**
+### 1. **Code Structure Knowledge Graph AST ** 
    - **Entities**: Modules, Classes, Methods, Functions, Variables.
    - **Relationships**: Contains, Inherits, Implements, Calls, Defines, Declares.
    - **Use Case**: Understanding the structural hierarchy and dependencies in the codebase.
