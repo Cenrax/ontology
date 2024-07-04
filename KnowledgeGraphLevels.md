@@ -38,7 +38,7 @@
    - **Relationships**: Measured in, Affects, Depends on.
    - **Use Case**: Analyzing performance bottlenecks, linking performance metrics to code components, and optimizing code performance.
 
-### 9. **Design Pattern Knowledge Graph**
+### 7. **Design Pattern Knowledge Graph**
    - **Entities**: Domain Concepts, Classes, Methods, Variables.
    - **Relationships**: Represents, Refers to, Associated with.
    - **Use Case**: Understanding the domain-specific semantics within the code, enhancing code readability and the areas where the code is missing the design pattern
