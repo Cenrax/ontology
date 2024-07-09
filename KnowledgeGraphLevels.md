@@ -46,4 +46,8 @@
 
    - Companies can build their own design pattern also
 
+### 8. **Annotations KG**
+   - Crawl through the code that designs the architecture of the code snippet.
+   - 
+
 
