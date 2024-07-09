@@ -5,7 +5,8 @@
    - **Relationships**: Contains, Inherits, Implements, Calls, Defines, Declares.
    - **Use Case**: Understanding the structural hierarchy and dependencies in the codebase.
 #### Status
-   - Already implemented
+   - Already implemented using syntactical AST
+   - Use LLM to create the knowledge graph
 
 ### 2. **Dependency Knowledge Graph**
    - **Entities**: Libraries, Modules, Packages, External APIs.
